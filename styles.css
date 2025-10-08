@@ -5,6 +5,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	height: 100vh;
+	gap: 30px;
 }
 
 .section {
@@ -53,7 +54,6 @@ form a {
 	text-align: center;
 }
 
-h1 {
-	color: #1877f2;
-	font-size: 70px
+.left img {
+	height: 200px;
 }
